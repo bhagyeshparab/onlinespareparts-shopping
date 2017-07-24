@@ -1,4 +1,4 @@
-package met.new.onlineshoppingbackend;
+package met.edu.onlineshoppingbackend;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
